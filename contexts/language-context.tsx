@@ -49,47 +49,55 @@ const translations = {
     "home.upcoming_events": "Upcoming Events",
     "home.quick_links": "Quick Links",
 
+    // Headmaster section
+    "headmaster.name": "Sarojini Mondal",
+    "headmaster.designation": "Headmaster",
+    "headmaster.experience": "25+ Years Experience",
+    "headmaster.speechTitle": "A Message from Our Headmaster",
+    "headmaster.speech":
+      "Welcome to Chandkathi Adarsha Girls' Secondary School. For over five decades, we have been committed to providing quality education that nurtures both academic excellence and moral character. Our dedicated faculty and supportive environment ensure every student reaches their full potential.",
+    "headmaster.signature": "Sarojini Mondal, Headmaster",
+
     // Hero section
-    "hero.title": "Empowering Young Women Through Quality Education",
-    "hero.subtitle": "Building tomorrow's leaders with excellence in academics and character development",
+    "hero.title": "Empowering Young Minds",
+    "hero.subtitle": "Building Tomorrow's Leaders Through Quality Education",
     "hero.cta.primary": "Explore Programs",
     "hero.cta.secondary": "Virtual Tour",
-
-    // About section
-    "about.title": "About Our School",
-    "about.description":
-      "Chandkathi Adarsha Girls' Secondary School has been a beacon of educational excellence since 1970, dedicated to nurturing young minds and building strong character.",
-    "about.cta": "Learn More About Us",
-
-    // Features section
-    "features.title": "Why Choose Our School",
-    "features.subtitle": "Comprehensive education that prepares students for success in academics and life",
-    "features.education.title": "Quality Education",
-    "features.education.description": "Modern curriculum with experienced teachers ensuring academic excellence",
-    "features.community.title": "Strong Community",
-    "features.community.description": "Supportive environment fostering personal growth and social responsibility",
-    "features.excellence.title": "Academic Excellence",
-    "features.excellence.description": "Proven track record of outstanding results and university admissions",
-    "features.future.title": "Future Ready",
-    "features.future.description": "Preparing students with skills needed for tomorrow's challenges",
 
     // Statistics
     "stats.students": "Students",
     "stats.teachers": "Teachers",
     "stats.years": "Years of Excellence",
 
+    // About section
+    "about.title": "About Our School",
+    "about.description":
+      "Chandkathi Adarsha Girls' Secondary School has been a beacon of educational excellence since 1970. We are committed to providing quality education that empowers young women to become confident, capable leaders of tomorrow.",
+    "about.cta": "Learn More",
+
+    // Features section
+    "features.title": "Why Choose Our School",
+    "features.subtitle": "Discover what makes our educational approach unique and effective",
+    "features.education.title": "Quality Education",
+    "features.education.description": "Comprehensive curriculum designed to foster critical thinking and creativity",
+    "features.community.title": "Strong Community",
+    "features.community.description": "Supportive environment that encourages collaboration and personal growth",
+    "features.excellence.title": "Academic Excellence",
+    "features.excellence.description": "Proven track record of outstanding academic achievements and results",
+    "features.future.title": "Future Ready",
+    "features.future.description": "Preparing students for success in higher education and professional careers",
+
     // Contact section
     "contact.title": "Get in Touch",
-    "contact.subtitle": "We're here to help with any questions about admissions, programs, or school life",
+    "contact.subtitle": "We're here to help and answer any questions you might have",
     "contact.phone": "Phone",
     "contact.email": "Email",
     "contact.address": "Address",
     "contact.followUs": "Follow Us",
 
     // CTA section
-    "cta.title": "Ready to Join Our School Community?",
-    "cta.description":
-      "Take the first step towards your daughter's bright future. Apply now for admission or schedule a visit to our campus.",
+    "cta.title": "Ready to Join Our Community?",
+    "cta.description": "Take the first step towards an exceptional educational journey",
     "cta.button": "Apply Now",
   },
   bn: {
@@ -125,47 +133,55 @@ const translations = {
     "home.upcoming_events": "আসন্ন অনুষ্ঠান",
     "home.quick_links": "দ্রুত লিংক",
 
+    // Headmaster section
+    "headmaster.name": "সরোজিনী মন্ডল",
+    "headmaster.designation": "প্রধান শিক্ষক",
+    "headmaster.experience": "২৫+ বছরের অভিজ্ঞতা",
+    "headmaster.speechTitle": "আমাদের প্রধান শিক্ষকের বার্তা",
+    "headmaster.speech":
+      "চাঁদকাঠি আদর্শ বালিকা মাধ্যমিক বিদ্যালয়ে আপনাদের স্বাগতম। পাঁচ দশকেরও বেশি সময় ধরে আমরা মানসম্পন্ন শিক্ষা প্রদানে প্রতিশ্রুতিবদ্ধ যা একাডেমিক উৎকর্ষতা এবং নৈতিক চরিত্র উভয়কেই লালন করে। আমাদের নিবেদিতপ্রাণ শিক্ষকমণ্ডলী এবং সহায়ক পরিবেশ নিশ্চিত করে যে প্রতিটি শিক্ষার্থী তাদের পূর্ণ সম্ভাবনায় পৌঁছায়।",
+    "headmaster.signature": "সরোজিনী মন্ডল, প্রধান শিক্ষক",
+
     // Hero section
-    "hero.title": "মানসম্পন্ন শিক্ষার মাধ্যমে তরুণীদের ক্ষমতায়ন",
-    "hero.subtitle": "একাডেমিক উৎকর্ষতা ও চরিত্র গঠনের মাধ্যমে আগামীর নেতৃত্ব তৈরি করা",
-    "hero.cta.primary": "প্রোগ্রাম দেখুন",
+    "hero.title": "তরুণ মনের ক্ষমতায়ন",
+    "hero.subtitle": "মানসম্পন্ন শিক্ষার মাধ্যমে আগামীর নেতা গড়ে তোলা",
+    "hero.cta.primary": "কোর্স দেখুন",
     "hero.cta.secondary": "ভার্চুয়াল ট্যুর",
-
-    // About section
-    "about.title": "আমাদের স্কুল সম্পর্কে",
-    "about.description":
-      "চাঁদকাঠি আদর্শ বালিকা মাধ্যমিক বিদ্যালয় ১৯৭০ সাল থেকে শিক্ষার উৎকর্ষতার আলোকবর্তিকা হিসেবে তরুণ মনের পরিচর্যা ও দৃঢ় চরিত্র গঠনে নিবেদিত।",
-    "about.cta": "আমাদের সম্পর্কে আরও জানুন",
-
-    // Features section
-    "features.title": "কেন আমাদের স্কুল বেছে নেবেন",
-    "features.subtitle": "ব্যাপক শিক্ষা যা শিক্ষার্থীদের একাডেমিক ও জীবনে সফলতার জন্য প্রস্তুত করে",
-    "features.education.title": "মানসম্পন্ন শিক্ষা",
-    "features.education.description": "অভিজ্ঞ শিক্ষকদের সাথে আধুনিক পাঠ্যক্রম একাডেমিক উৎকর্ষতা নিশ্চিত করে",
-    "features.community.title": "শক্তিশালী সম্প্রদায়",
-    "features.community.description": "ব্যক্তিগত বৃদ্ধি ও সামাজিক দায়বদ্ধতা বৃদ্ধিকারী সহায়ক পরিবেশ",
-    "features.excellence.title": "একাডেমিক উৎকর্ষতা",
-    "features.excellence.description": "অসাধারণ ফলাফল ও বিশ্ববিদ্যালয় ভর্তির প্রমাণিত ট্র্যাক রেকর্ড",
-    "features.future.title": "ভবিষ্যতের জন্য প্রস্তুত",
-    "features.future.description": "আগামীর চ্যালেঞ্জের জন্য প্রয়োজনীয় দক্ষতা নিয়ে শিক্ষার্থীদের প্রস্তুত করা",
 
     // Statistics
     "stats.students": "শিক্ষার্থী",
     "stats.teachers": "শিক্ষক",
     "stats.years": "বছরের উৎকর্ষতা",
 
+    // About section
+    "about.title": "আমাদের স্কুল সম্পর্কে",
+    "about.description":
+      "চাঁদকাঠি আদর্শ বালিকা মাধ্যমিক বিদ্যালয় ১৯৭০ সাল থেকে শিক্ষার উৎকর্ষতার একটি আলোকবর্তিকা। আমরা মানসম্পন্ন শিক্ষা প্রদানে প্রতিশ্রুতিবদ্ধ যা তরুণীদের আগামীর আত্মবিশ্বাসী, দক্ষ নেতা হতে ক্ষমতায়ন করে।",
+    "about.cta": "আরও জানুন",
+
+    // Features section
+    "features.title": "কেন আমাদের স্কুল বেছে নিবেন",
+    "features.subtitle": "আমাদের শিক্ষাগত পদ্ধতি কী অনন্য এবং কার্যকর তা আবিষ্কার করুন",
+    "features.education.title": "মানসম্পন্ন শিক্ষা",
+    "features.education.description": "সমালোচনামূলক চিন্তাভাবনা এবং সৃজনশীলতা বৃদ্ধির জন্য ডিজাইন করা ব্যাপক পাঠ্যক্রম",
+    "features.community.title": "শক্তিশালী সম্প্রদায়",
+    "features.community.description": "সহায়ক পরিবেশ যা সহযোগিতা এবং ব্যক্তিগত বৃদ্ধিকে উৎসাহিত করে",
+    "features.excellence.title": "একাডেমিক উৎকর্ষতা",
+    "features.excellence.description": "অসাধারণ একাডেমিক অর্জন এবং ফলাফলের প্রমাণিত ট্র্যাক রেকর্ড",
+    "features.future.title": "ভবিষ্যতের জন্য প্রস্তুত",
+    "features.future.description": "উচ্চশিক্ষা এবং পেশাগত ক্যারিয়ারে সাফল্যের জন্য শিক্ষার্থীদের প্রস্তুত করা",
+
     // Contact section
     "contact.title": "যোগাযোগ করুন",
-    "contact.subtitle": "ভর্তি, প্রোগ্রাম বা স্কুল জীবন সম্পর্কে যেকোনো প্রশ্নে আমরা সাহায্য করতে এখানে আছি",
+    "contact.subtitle": "আমরা সাহায্য করতে এবং আপনার যেকোনো প্রশ্নের উত্তর দিতে এখানে আছি",
     "contact.phone": "ফোন",
     "contact.email": "ইমেইল",
     "contact.address": "ঠিকানা",
     "contact.followUs": "আমাদের ফলো করুন",
 
     // CTA section
-    "cta.title": "আমাদের স্কুল কমিউনিটিতে যোগ দিতে প্রস্তুত?",
-    "cta.description":
-      "আপনার মেয়ের উজ্জ্বল ভবিষ্যতের দিকে প্রথম পদক্ষেপ নিন। ভর্তির জন্য এখনই আবেদন করুন বা আমাদের ক্যাম্পাস পরিদর্শনের সময় নির্ধারণ করুন।",
+    "cta.title": "আমাদের সম্প্রদায়ে যোগ দিতে প্রস্তুত?",
+    "cta.description": "একটি ব্যতিক্রমী শিক্ষামূলক যাত্রার দিকে প্রথম পদক্ষেপ নিন",
     "cta.button": "এখনই আবেদন করুন",
   },
 }

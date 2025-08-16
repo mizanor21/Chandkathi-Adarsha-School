@@ -9,6 +9,7 @@ import { AnimatedSection } from "@/components/animated-section"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { BookOpen, Users, Award, Target } from "lucide-react"
+import { HeadmasterSpeech } from "@/components/headmaster-speech"
 
 export default function HomePage() {
   const { t } = useLanguage()
@@ -38,6 +39,7 @@ export default function HomePage() {
 
   return (
     <MainLayout>
+      {/* Hero Section */}
       <HeroSection />
 
       {/* About Section */}
@@ -85,6 +87,9 @@ export default function HomePage() {
           </div>
         </div>
       </AnimatedSection>
+
+      {/* Headmaster's Speech Section */}
+      <HeadmasterSpeech />
 
       {/* Latest News */}
       <LatestNews />
