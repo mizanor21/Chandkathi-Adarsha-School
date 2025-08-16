@@ -21,7 +21,7 @@ const notoSansBengali = Noto_Sans_Bengali({
 export const metadata: Metadata = {
   title: "Chandkathi Adarsha Girls' Secondary School",
   description:
-    "Welcome to Chandkathi Adarsha Girls' Secondary School - Providing quality education and nurturing future leaders",
+    "Welcome to Chandkathi Adarsha Girls' Secondary School - Empowering young minds through quality education",
   generator: "v0.app",
 }
 

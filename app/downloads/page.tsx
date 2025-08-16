@@ -128,7 +128,7 @@ export default function DownloadsPage() {
     { value: "all", label: { en: "All Categories", bn: "সব ক্যাটেগরি" } },
     { value: "forms", label: { en: "Forms", bn: "ফরম" } },
     { value: "syllabus", label: { en: "Syllabus", bn: "সিলেবাস" } },
-    { value: "exam", label: { en: "Exam Routine", bn: "পরীক্ষার রুটিন" } },
+    { value: "exam", label: { en: "Exam Routine", bn: "পরীক্ষার ��ুটিন" } },
     { value: "calendar", label: { en: "Calendar", bn: "ক্যালেন্ডার" } },
     { value: "rules", label: { en: "Rules", bn: "নিয়মকানুন" } },
   ]
