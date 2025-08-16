@@ -5,6 +5,12 @@ import { ChevronLeft, ChevronRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 const carouselImages = [
+ /* {
+    src: "/images/school-banner.jpeg",
+    alt: "School Banner",
+    title: "চাঁদকাঠী আদর্শ বালিকা মাধ্যমিক বিদ্যালয়",
+    subtitle: "Chandkathi Adarsha Girls' Secondary School",
+  },*/
   {
     src: "/images/school-signboard.jpeg",
     alt: "School Signboard",

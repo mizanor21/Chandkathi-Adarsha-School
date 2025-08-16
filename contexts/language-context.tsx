@@ -143,7 +143,7 @@ const translations = {
     "headmaster.signature": "সরোজিনী মন্ডল, প্রধান শিক্ষক",
 
     // Hero section
-    "hero.title": "তরুণ মনের ক্ষমতায়ন",
+    "hero.title": "মানসম্পন্ন শিক্ষার মাধ্যমে তরুণীদের ক্ষমতায়ন",
     "hero.subtitle": "মানসম্পন্ন শিক্ষার মাধ্যমে আগামীর নেতা গড়ে তোলা",
     "hero.cta.primary": "কোর্স দেখুন",
     "hero.cta.secondary": "ভার্চুয়াল ট্যুর",
