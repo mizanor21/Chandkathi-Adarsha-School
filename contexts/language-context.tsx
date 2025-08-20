@@ -23,11 +23,8 @@ const translations = {
     "nav.teachers": "Teachers",
     "nav.admission": "Online Admission",
     "nav.gallery": "Photo Gallery",
-    "nav.video": "Video",
     "nav.notice": "Notice Board",
-    "nav.academic": "Academic Info",
     "nav.contact": "Contact",
-    "nav.login": "Login",
 
     // School Info
     "school.name": "Chandkathi Adarsha Girls' Secondary School",
@@ -107,11 +104,8 @@ const translations = {
     "nav.teachers": "শিক্ষক",
     "nav.admission": "অনলাইন এডমিশন",
     "nav.gallery": "ফটো গ্যালারী",
-    "nav.video": "ভিডিও",
     "nav.notice": "নোটিশ",
-    "nav.academic": "একাডেমিক তথ্য",
     "nav.contact": "যোগাযোগ",
-    "nav.login": "লগইন",
 
     // School Info
     "school.name": "চাঁদকাঠি আদর্শ বালিকা মাধ্যমিক বিদ্যালয়",

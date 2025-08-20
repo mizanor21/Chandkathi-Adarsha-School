@@ -3,6 +3,7 @@
 import { useLanguage } from "@/contexts/language-context"
 import { AnimatedSection } from "@/components/animated-section"
 import Image from "next/image"
+import speach from "@/public/images/sorojimondol.jpg"
 
 export function HeadmasterSpeech() {
   const { t } = useLanguage()
@@ -19,7 +20,7 @@ export function HeadmasterSpeech() {
                   <div className="relative">
                     <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-primary/20 headmaster-photo-hover">
                       <Image
-                        src="/placeholder.svg?height=200&width=200"
+                        src={speach}
                         alt={t("headmaster.name")}
                         width={200}
                         height={200}

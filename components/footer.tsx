@@ -90,11 +90,11 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-green-400 flex-shrink-0" />
-                <p className="text-gray-300 text-sm">+880 1711-288308</p>
+                <p className="text-gray-300 text-sm">০১৭৪০১৯৮৫৩৪</p>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-green-400 flex-shrink-0" />
-                <p className="text-gray-300 text-sm">info@chandkathi-school.edu.bd</p>
+                <p className="text-gray-300 text-sm">chandkathiadarshasecondarygirl@gmail.com</p>
               </div>
               <div className="flex items-center gap-4 pt-2">
                 <Link href="#" className="text-gray-300 hover:text-green-400 transition-colors">

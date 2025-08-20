@@ -11,14 +11,14 @@ export function ContactInfo() {
     {
       icon: Phone,
       label: t("contact.phone"),
-      value: "+880 1711-288308",
+      value: "০১৭৪০১৯৮৫৩৪",
       href: "tel:+8801711288308",
     },
     {
       icon: Mail,
       label: t("contact.email"),
-      value: "chandkathi.school@gmail.com",
-      href: "mailto:chandkathi.school@gmail.com",
+      value: "chandkathiadarshasecondarygirl@gmail.com",
+      href: "mailto:chandkathiadarshasecondarygirl@gmail.com",
     },
     {
       icon: MapPin,

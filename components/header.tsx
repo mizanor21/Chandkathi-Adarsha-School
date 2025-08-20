@@ -19,11 +19,8 @@ export function Header() {
     { key: "nav.teachers", href: "/teachers" },
     { key: "nav.admission", href: "/admission" },
     { key: "nav.gallery", href: "/gallery" },
-    { key: "nav.video", href: "/video" },
     { key: "nav.notice", href: "/notice" },
-    { key: "nav.academic", href: "/academic" },
     { key: "nav.contact", href: "/contact" },
-    { key: "nav.login", href: "/login" },
   ]
 
   return (
@@ -35,11 +32,11 @@ export function Header() {
             <div className="flex items-center gap-4 mb-2 sm:mb-0">
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4" />
-                <span>+880 1711-288308</span>
+                <span>০১৭৪০১৯৮৫৩৪</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="h-4 w-4" />
-                <span>info@chandkathi-school.edu.bd</span>
+                <span>chandkathiadarshasecondarygirl@gmail.com</span>
               </div>
             </div>
             <div className="flex items-center gap-2">

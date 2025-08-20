@@ -64,7 +64,7 @@ export default function ContactPage() {
                       <h3 className={`font-semibold text-gray-800 mb-1 ${language === "bn" ? "font-bengali" : ""}`}>
                         {language === "bn" ? "ইমেইল" : "Email"}
                       </h3>
-                      <p className="text-gray-600">info@chandkathi-school.edu.bd</p>
+                      <p className="text-gray-600">chandkathiadarshasecondarygirl@gmail.com</p>
                       <p className="text-gray-600">principal@chandkathi-school.edu.bd</p>
                     </div>
                   </div>
